@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/gabriellfreitasr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriellfreitasr&show_icons=true&theme=blue&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellfreitasr&layout=compact&langs_count=7&theme=blue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriellfreitasr&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellfreitasr&layout=compact&langs_count=7&theme=blue"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -22,3 +22,12 @@
 </div>
   
   ##
+
+<div>
+  <a href="https://www.instagram.com/gabriellfreitasr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href = ""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="www.linkedin.com/in/gabriellfreitasr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  </div>
