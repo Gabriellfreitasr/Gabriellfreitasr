@@ -2,7 +2,7 @@
 
 <div> 
   <a href="https://github.com/Gabriellfreitasr/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriellfreitasr&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" /> 
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriellfreitasr&show_icons=true&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" /> 
   </a>
   
   <a href="https://github.com/Gabriellfreitasr/convoychat">
@@ -12,24 +12,12 @@
 
   ##
   
-<a href="https://github.com/rafaballerini/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaballerini" />
+<a href="https://github.com/Gabriellfreitasr/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriellfreitasr&font_size=12px" />
 </a>
 <a href="https://github.com/Gabriellfreitasr/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriellfreitasr&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-##
-
-<div> 
-  <a href="https://github.com/Gabriellfreitasr/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriellfreitasr&show_icons=true&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" /> 
-  </a>
-  
-  <a href="https://github.com/Gabriellfreitasr/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriellfreitasr&layout=compact&langs_count=8&card_width=300&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" />
-  </a>
-</div>
 
 ##
 
