@@ -2,8 +2,8 @@
 ## Acompanhe-me na minha jornada 🐱‍💻
 
 <div> 
-  <a href="https://github.com/Gabriellfreitasr/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriellfreitasr&show_icons=true&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" /> 
+  <a href="https://github.com/gabriellfreitasr/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellfreitasr&show_icons=true&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" /> 
   </a>
   
   <a href="https://github.com/Gabriellfreitasr/convoychat">
