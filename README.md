@@ -1,25 +1,10 @@
 ## Olá, eu sou o Gabriel Freitas, Desenvolvedor Front-end!
-## Acompanhe-me na minha jornada 🐱‍💻
-
-<div> 
-  <a href="https://github.com/gabriellfreitasr/github-readme-stats">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellfreitasr&show_icons=true&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" /> 
-  </a>
-  
-  <a href="https://github.com/gabriellfreitasr/convoychat">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellfreitasr&layout=compact&langs_count=8&card_width=300&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" />
-  </a>
-</div>
-
-##
 
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellfreitasr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000"/>
 <a href="https://github.com/gabriellfreitasr">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellfreitasr&layout=compact&langs_count=7&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000"/>
 </div>
-
-  ##
 
 ##
 
@@ -41,6 +26,5 @@
   <a href = "mailto:gabriellfreitas456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriellfreitasr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gabriellfreitasr/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
  
