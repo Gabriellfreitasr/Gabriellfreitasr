@@ -27,4 +27,8 @@
   <a href = "mailto:gabriellfreitas456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://vercel.com/gabriellfreitasrs-projects" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&logo=linkedin&logoColor=white"></a> 
 </div>
+
+##
+
+![Snake animation](https://github.com/seu-usuário-aqui/gabriellfreitasr/blob/output/github-contribution-grid-snake.svg)
  
