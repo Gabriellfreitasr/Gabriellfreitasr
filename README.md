@@ -3,20 +3,20 @@
 
 <div> 
   <a href="https://github.com/gabriellfreitasr/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellfreitasr&show_icons=true&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" /> 
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellfreitasr&show_icons=true&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" /> 
   </a>
   
   <a href="https://github.com/gabriellfreitasr/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellfreitasr&layout=compact&langs_count=8&card_width=300&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellfreitasr&layout=compact&langs_count=8&card_width=300&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000" />
   </a>
 </div>
 
 ##
 
 <div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellfreitasr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellfreitasr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000"/>
 <a href="https://github.com/gabriellfreitasr">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellfreitasr&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellfreitasr&layout=compact&langs_count=7&theme=dark&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000"/>
 </div>
 
   ##
