@@ -1,4 +1,5 @@
-## Olá, eu sou o Gabriel Freitas, Desenvolvedor Front-end!
+## Olá, sou o Gabriel Freitas, Desenvolvedor Front-end!
+Seja bem-vindo ao meu perfil!!!
 
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellfreitasr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=DC143C&title_color=DC143C&text_color=DCDCDC&border_color=000000"/>
